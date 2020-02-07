@@ -1,2 +1,3 @@
 # ReadMe
-C ,C++ and Java Programs are available here.
+C Programs
+python project for biggners
